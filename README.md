@@ -11,3 +11,9 @@ A simple app to keep track of destinations I'd like to visit.
 ##### Here is Heading H5
 
 ###### Here is Heading H6
+
+## Code Sample
+
+Use the `git log` command...
+
+If this were _my_ house, we wouldn't follow _your_ directions. This is a **bold** word.
